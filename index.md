@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## ABOUT ME
 
-You can use the [editor on GitHub](https://github.com/VictorSkazetski/VictorSkazetski.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a student of BSTU. At present, I have no experience in the industrial development of software, 
+but I actively strive for this. I try to study all modern technologies and use them in training at the university.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## INTERESTS
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My personal interests include:
+* **Reading.** I mainly read technical literature and various Internet magazines, 
+for example a [magazine about Minsk](https://citydog.by/)
 
 ```markdown
 Syntax highlighted code block
