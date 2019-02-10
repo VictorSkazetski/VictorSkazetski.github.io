@@ -8,31 +8,13 @@ but I actively strive for this. I try to study all modern technologies and use t
 My personal interests include:
 * **Reading.** I mainly read technical literature and various Internet magazines, 
 for example a [magazine about Minsk](https://citydog.by/)
+* **Sport.** I like many sports, but most of all I prefer to play football.
 
-```markdown
-Syntax highlighted code block
+## RECENT PROJECT
 
-# Header 1
-## Header 2
-### Header 3
+* **Course project at WPF.** The theme of the project was "Cafe of Minsk", in this project used a local database SQL SERVER 
+to access the database used technology ADO.NET. In this project, secured the basic concept OOP and got acquainted with SQL.
 
-- Bulleted
-- List
+## CONTACT ME
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VictorSkazetski/VictorSkazetski.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Email:** skazkavitya@gmail.com
