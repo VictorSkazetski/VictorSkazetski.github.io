@@ -22,3 +22,11 @@ to access the database used technology ADO.NET. In this project, secured the bas
 ## TASKS
 
 * [**FancyCalc**](https://github.com/VictorSkazetski/FancyCalc)
+* [**PadawansTask1**](https://github.com/VictorSkazetski/PadawansTask1)
+* [**PadawansTask2**](https://github.com/VictorSkazetski/PadawansTask2)
+* [**PadawansTask3**](https://github.com/VictorSkazetski/PadawansTask3)
+* [**PadawansTask4**](https://github.com/VictorSkazetski/PadawansTask4)
+* [**PadawansTask5**](https://github.com/VictorSkazetski/PadawansTask5)
+* [**PadawansTask6**](https://github.com/VictorSkazetski/PadawansTask6)
+
+
