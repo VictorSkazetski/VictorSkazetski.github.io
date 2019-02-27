@@ -28,5 +28,9 @@ to access the database used technology ADO.NET. In this project, secured the bas
 * [**PadawansTask4**](https://github.com/VictorSkazetski/PadawansTask4)
 * [**PadawansTask5**](https://github.com/VictorSkazetski/PadawansTask5)
 * [**PadawansTask6**](https://github.com/VictorSkazetski/PadawansTask6)
+* [**PadawansTask7**](https://github.com/VictorSkazetski/PadawansTask7)
+* [**PadawansTask8**](https://github.com/VictorSkazetski/PadawansTask8)
+* [**PadawansTask10**](https://github.com/VictorSkazetski/PadawansTask10)
+* [**PadawansTask11**](https://github.com/VictorSkazetski/PadawansTask11)
 
 
