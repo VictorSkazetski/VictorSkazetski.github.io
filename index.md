@@ -33,4 +33,8 @@ to access the database used technology ADO.NET. In this project, secured the bas
 * [**PadawansTask10**](https://github.com/VictorSkazetski/PadawansTask10)
 * [**PadawansTask11**](https://github.com/VictorSkazetski/PadawansTask11)
 
+## Codewars
+
+* [**Rrofile**](https://www.codewars.com/users/VictorSkazetski)
+
 
