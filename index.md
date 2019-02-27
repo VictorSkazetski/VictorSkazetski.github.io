@@ -35,6 +35,6 @@ to access the database used technology ADO.NET. In this project, secured the bas
 
 ## Codewars
 
-* [**Rrofile**](https://www.codewars.com/users/VictorSkazetski)
+* [**Profile**](https://www.codewars.com/users/VictorSkazetski)
 
 
