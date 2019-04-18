@@ -9,7 +9,7 @@ My personal interests include:
 * **Reading.** I mainly read technical literature and various Internet magazines, 
 for example a [magazine about Minsk](https://citydog.by/)
 * **Sport.** I like many sports, but most of all I prefer to play football.
-**Films and others.**
+* **Films and others.**
 
 ## RECENT PROJECT
 
